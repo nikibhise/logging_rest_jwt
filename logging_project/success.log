@@ -1,0 +1,17 @@
+INFO 2023-12-22 22:36:20,350 views success_logger Employee with id 1 created successfully
+INFO 2023-12-22 22:37:36,583 views success_logger Employee with id 2 created successfully
+INFO 2023-12-22 22:37:44,098 views success_logger Employee feched successfully
+INFO 2023-12-22 22:40:17,072 views success_logger Employee feched successfully
+INFO 2023-12-22 22:40:48,650 views success_logger Employee updated: Employee object (2)
+INFO 2023-12-22 22:40:57,723 views success_logger Employee deleted successfully: 2
+INFO 2023-12-22 22:43:25,845 views success_logger Employee with id 3 created successfully
+INFO 2023-12-22 22:44:06,721 views success_logger Employee with id 4 created successfully
+INFO 2023-12-22 22:48:23,526 views success_logger Employee partially updated: Employee object (4)
+INFO 2023-12-22 22:48:35,833 views success_logger Employee details fetched: {'id': 4, 'first_name': 'sneha', 'last_name': 'bhise', 'email': 'sb11@gmail.com', 'position': 'HR'}
+INFO 2023-12-22 22:48:42,976 views success_logger Employee feched successfully
+INFO 2023-12-22 23:14:16,277 views success_logger Employee feched successfully
+INFO 2023-12-22 23:14:54,238 views success_logger Employee with id 5 created successfully
+INFO 2023-12-22 23:15:21,743 views success_logger Employee updated: Employee object (5)
+INFO 2023-12-22 23:15:41,948 views success_logger Employee partially updated: Employee object (5)
+INFO 2023-12-22 23:15:53,171 views success_logger Employee deleted successfully: 5
+INFO 2023-12-22 23:17:24,478 views success_logger Employee feched successfully

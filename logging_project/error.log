@@ -1,0 +1,4 @@
+ERROR 2023-12-22 23:17:00,277 views error_logger There is an error fetching the employees
+ERROR 2023-12-22 23:17:15,265 views error_logger There is an error fetching the employees
+ERROR 2023-12-22 23:17:41,010 views error_logger Failed to create employee: {'email': [ErrorDetail(string='Enter a valid email address.', code='invalid')]}
+ERROR 2023-12-22 23:18:10,111 views error_logger Failed to delete employee
